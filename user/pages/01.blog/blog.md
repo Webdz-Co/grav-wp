@@ -23,4 +23,4 @@ pagination: true
 ---
 
 # Wacey Pruit
-## How To Build An Empire
+## Build Your Empire
