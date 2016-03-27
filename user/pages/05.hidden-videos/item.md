@@ -4,7 +4,7 @@ date: 13:34 06/21/2014
 visible: false
 taxonomy:
     category: pages
-    tag: [ocean, birds, photography]
+    tag: []
 ---
 
 ### Q&A with Tyson and Ray
