@@ -22,5 +22,5 @@ feed:
 pagination: true
 ---
 
-# My Gravtastic Blog
-## A tale of **awesomazing** adventures
+# Wacey Pruit
+## How To Build An Empire
