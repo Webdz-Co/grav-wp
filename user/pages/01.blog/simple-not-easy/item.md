@@ -1,6 +1,6 @@
 ---
 title: The Simple Way To Wealth Is Not Easy
-date: 10:34 09/23/2015
+date: 09/23/2015 10:23
 published: false
 taxonomy:
     category: blog

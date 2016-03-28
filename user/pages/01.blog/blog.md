@@ -22,5 +22,5 @@ feed:
 pagination: true
 ---
 
-# Wacey Pruit
+# Escape The Pod
 ## Build Your Empire

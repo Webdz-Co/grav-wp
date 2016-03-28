@@ -1,6 +1,6 @@
 ---
 title: Why The Rich Get Richer
-date: 13:34 06/23/2015
+date: 09/24/2015 17:03
 published: false
 continue_link: false
 taxonomy:

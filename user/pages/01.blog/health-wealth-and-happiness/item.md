@@ -1,6 +1,6 @@
 ---
 title: Health, Wealth, and Happiness
-date: 13:34 06/07/2015
+date: 09/24/2015 18:08
 published: false
 taxonomy:
     category: blog

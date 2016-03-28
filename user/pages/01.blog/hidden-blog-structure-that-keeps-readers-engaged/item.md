@@ -1,6 +1,6 @@
 ---
 title: Hidden Blog Structure That Keeps Readers Engaged
-date: 13:34 07/10/2015
+date: 09/29/2015 15:54
 continue_link: true
 link: http://lt.waceypruit.com/blogstructure
 taxonomy:

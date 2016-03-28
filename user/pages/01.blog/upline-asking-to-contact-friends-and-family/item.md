@@ -1,6 +1,6 @@
 ---
 title: Is Your Upline Asking You to Contact Friends and Family?
-date: 14:55 07/11/2014
+date: 09/29/2015 15:47
 author: Wacey Pruit
 taxonomy:
     category: blog
